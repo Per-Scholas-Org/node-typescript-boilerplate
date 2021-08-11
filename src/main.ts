@@ -1,3 +1,5 @@
+console.log('hello world!');
+
 /**
  * Some predefined delay values (in milliseconds).
  */
