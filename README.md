@@ -31,7 +31,7 @@ This project is intended to be used with the latest Active LTS release of [Node.
 
 ### Use as a repository template
 
-To start, just click the **[Use template][repo-template-action]** link (or the green button). Start adding your code in the `src` and unit tests in the `__tests__` directories.
+To start, just click the **[Use template](https://github.com/Per-Scholas-Org/node-typescript-boilerplate/generate)** link (or the green button). Start adding your code in the `src` and unit tests in the `__tests__` directories.
 
 ### Clone repository
 
