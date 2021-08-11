@@ -58,6 +58,8 @@ unzip node-typescript-boilerplate.zip && rm node-typescript-boilerplate.zip
 - `prebuild` - lint source files and tests before building,
 - `build` - transpile TypeScript to ES6,
 - `build:watch` - interactive watch mode to automatically transpile source files,
+- `start:watch` - interactive watch mode to automatically run transpiled code. **Provided mainly as a reference; you probably want to use the dev script.**
+- `dev` - interactive watch mode to automatically transpile source files and run transpiled code. **Use this when developing**.
 - `lint` - lint source files and tests,
 - `test` - run tests,
 - `test:watch` - interactive watch mode to automatically re-run tests
